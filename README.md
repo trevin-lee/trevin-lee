@@ -11,7 +11,5 @@
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)](#)
 [![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)](#)
-[![CLI](https://img.shields.io/badge/CLI-4D4D4D?logo=windowsterminal&logoColor=white)](#)
-[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](#)
 
 📍 San Diego, CA | 🧑‍💻 Undergraduate Physics Researcher & Engineer
