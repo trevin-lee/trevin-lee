@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello, I'm Trevin 👋
 
-<!--
-**trevin-lee/trevin-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)](#)
+[![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)](#)
+[![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)](#)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)](#)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](#)
+[![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)](#)
+[![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)](#)
+[![CLI](https://img.shields.io/badge/CLI-4D4D4D?logo=windowsterminal&logoColor=white)](#)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](#)
