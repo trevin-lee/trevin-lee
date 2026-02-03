@@ -13,3 +13,5 @@
 [![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white)](#)
 [![CLI](https://img.shields.io/badge/CLI-4D4D4D?logo=windowsterminal&logoColor=white)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)](#)
+
+📍 San Diego, CA | 🧑‍💻 Undergraduate Physics Researcher & Engineer
